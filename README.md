@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://github.com/ImmuneBytes-Security-Audit/Smart-Contract-Audit-Reports/blob/main/Logos/about-us.png"/>
 </p>
-Welcome to the official repository of **ImmuneBytes**, where we’re passionate about securing the future of Web3. We provide comprehensive smart contract audits and blockchain security services, working alongside top industry experts to protect millions in TVL across various protocols. This repository houses our publicly available smart contract audit reports, showcasing our commitment to enhancing the security and reliability of blockchain projects.
+
+Welcome to the official repository of ImmuneBytes, where we’re passionate about securing the future of Web3. We provide comprehensive smart contract audits and blockchain security services, working alongside top industry experts to protect millions in TVL across various protocols. This repository houses our publicly available smart contract audit reports, showcasing our commitment to enhancing the security and reliability of blockchain projects.
 
 ---
 
